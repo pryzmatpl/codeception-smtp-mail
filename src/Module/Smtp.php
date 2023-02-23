@@ -12,10 +12,10 @@ use PhpImap\IncomingMail;
 class Smtp extends Module
 {
     /** @var array */
-    protected $requiredFields = ['username', 'password'];
+    protected array $requiredFields = ['username', 'password'];
 
     /** @var array */
-    protected $config = [
+    protected array $config = [
         'username',
         'password',
         'imap_path' => '{imap.gmail.com:993/imap/ssl}INBOX',
