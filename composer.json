@@ -1,6 +1,6 @@
 {
-  "name": "ahmedsamy/codeception-smtp-mail",
-  "description": "Test emails in your Codeception acceptance tests",
+  "name": "pryzmatpl/codeception-smtp-mail",
+  "description": "Test emails in your Codeception acceptance tests - V8 Codecept 5",
   "homepage": "https://github.com/AhmedSamy/codeception-smtp-mail",
   "license": "MIT",
   "keywords": [
@@ -15,6 +15,11 @@
       "name": "Ahmed Samy",
       "email": "ahmed.samy.cs@gmail.com",
       "homepage": "http://www.ahmed-samy.com"
+    },
+    {
+      "name": "Piotr Słupski",
+      "email": "piotr.slupski@pryzmat.pl",
+      "homepage": "https://pryzmat.pl"
     }
   ],
   "require": {
